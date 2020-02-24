@@ -3,7 +3,7 @@
 
 > A list of [Postman](https://www.getpostman.com) collections. The more, the merrier.
 
-### Please add collections to the list with PRs!
+### Please help add collections to the list!
 I have yet to see a central third-party repository of Postman API collections, and it would be great to have a list somewhere to search for existing collections before attempting to test it manually.
 
 
