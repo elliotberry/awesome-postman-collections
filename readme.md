@@ -1,5 +1,6 @@
 # Awesome Postman Collections [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Note: now outdated by the better exploring function in postman, although tbh I don't think it's that great an app
 
 > A list of [Postman](https://www.getpostman.com) collections. The more, the merrier.
 
